@@ -103,7 +103,7 @@ Utiliza XAMPP, WAMP o un servidor LAMP.
 Coloca el proyecto en el directorio adecuado (por ejemplo, htdocs en XAMPP).
 
 3. **Configuración de la Base de Datos:**
-Importa el archivo SQL disponible en la carpeta /sql.
+Importa el archivo SQL disponible en la la carpeta PITA dbs10610773.dbs.
 Actualiza las credenciales de conexión en php/conexion.php.
 
 4. **Acceso al Sistema:**
@@ -111,80 +111,80 @@ Abre el navegador y visita http://localhost/PITA para iniciar sesión o registra
 
 ## USO
 
-# Uso
-
 Una vez instalado, el sistema permite a los usuarios:
 
-# Registrarse e Iniciar Sesión:
-# Utilizando sus credenciales institucionales, con un sistema seguro de verificación y recuperación de contraseña.
+1. Registrarse e Iniciar Sesión:
+- Utilizando sus credenciales institucionales, con un sistema seguro de verificación y recuperación de contraseña.
 
-# Acceder a Funcionalidades Personalizadas:
-# Cada usuario visualiza un dashboard adaptado a su rol (por ejemplo, agendar citas, ingresar calificaciones, gestionar evaluaciones, etc.).
+2. Acceder a Funcionalidades Personalizadas:
+- Cada usuario visualiza un dashboard adaptado a su rol (por ejemplo, agendar citas, ingresar calificaciones, gestionar evaluaciones, etc.).
 
-# Gestionar Citas y Evaluaciones:
-# Los alumnos pueden consultar horarios y reservar citas; los profesores y jefes de carrera administran evaluaciones y reportes.
+3. Gestionar Citas y Evaluaciones:
+- Los alumnos pueden consultar horarios y reservar citas; los profesores y jefes de carrera administran evaluaciones y reportes.
 
-# Participar en el Ranking del Juego:
-# El juego de Snake permite acumular puntos y competir en un ranking visible para toda la universidad.
+4. Participar en el Ranking del Juego:
+- El juego de Snake permite acumular puntos y competir en un ranking visible para toda la universidad.
 
-# Personalizar la Experiencia de Usuario:
-# Cambiar entre modo oscuro y claro, además de actualizar la imagen de perfil.
+5. Personalizar la Experiencia de Usuario:
+- Cambiar entre modo oscuro y claro, además de actualizar la imagen de perfil.
 
 
 # ROADMAP
 
-# Roadmap
-# Mejoras en la Interfaz de Usuario:
-# Refinar el diseño para una experiencia más intuitiva y moderna.
+1.  | Mejoras en la Interfaz de Usuario:
+- Refinar el diseño para una experiencia más intuitiva y moderna.
 
-# Optimización del Rendimiento:
-# Mejorar la velocidad de carga y la eficiencia en el manejo de datos.
+2.  | Optimización del Rendimiento:
+- Mejorar la velocidad de carga y la eficiencia en el manejo de datos.
 
-# Integración de Notificaciones en Tiempo Real:
-# Implementar notificaciones para citas, mensajes y actualizaciones importantes.
+3.  | Integración de Notificaciones en Tiempo Real:
+- Implementar notificaciones para citas, mensajes y actualizaciones importantes.
 
-# Expansión de Reportes y Análisis:
-# Incluir nuevas métricas y comparativas históricas para un análisis más profundo.
+4.  | Expansión de Reportes y Análisis:
+- Incluir nuevas métricas y comparativas históricas para un análisis más profundo.
 
-# Mejoras en la Seguridad:
-# Evaluación y actualización constante de los protocolos de encriptación y autenticación.
+5.  | Mejoras en la Seguridad:
+- Evaluación y actualización constante de los protocolos de encriptación y autenticación.
 
 
 ## CAPTURAS DE PANTALLA
 
-
-# Pantalla de Login:
+**Pantalla de Login:**
 -   ![Imagen:](./readmeimg/login.png)
 
-# Dashboard del Alumno:
+**Dashboard del Alumno:**
 -   ![Imagen:](./readmeimg/alumno-dashboard.png)
 
-# Interfaz del Profesor/Psicólogo:
+**Interfaz del Profesor/Psicólogo:**
 -   ![Imagen:](./readmeimg/profesor-dashboard.png)
 
-# Calendario de Agendamiento de Citas:
+**Calendario de Agendamiento de Citas:**
 -   ![Imagen:](./readmeimg/calendario.png)
 
-# Sección de Reportes y Gráficos:
+**Sección de Reportes y Gráficos:**
 -   ![Imagen:](./readmeimg/reportes.png)
 
-# Ranking del Juego:
+**Ranking del Juego:**
 -   ![Imagen:](./readmeimg/ranking.png)
 
 
 # Créditos
-# Desarrollador Principal:
-# Ing. Arath Nieto +52 5613845080 
+| Desarrollador Principal:
+|| <Ing. Arath Nieto> +52 5613845080 LinkedIn: www.linkedin.com/in/jonatan-arath-garcía-nieto-332698218
+||| <Ing. Carbajal Silva>
+|||| <Ing. Dillan Nava>
+
 
 # Equipo de Desarrollo:
-# Contribuciones del equipo de PITA.
+  *Contribuciones del equipo de PITA.
 
-# Asesores y Colaboradores:
-# JELB y el equipo académico de UPTex.
+**Asesores y Colaboradores:**
+  *JELB y el equipo académico de UPTex.
 
-# Agradecimientos Especiales:
-# A mi familia por su apoyo Incondicional.
+**Agradecimientos Especiales:**
+  *A mi familia por su apoyo Incondicional.
 
+#NINGUN SISTEMA ES SEGURO
 
 # Licencia
 ´´´Este proyecto se distribuye bajo la Licencia MIT.´´´
@@ -217,7 +217,5 @@ Una vez instalado, el sistema permite a los usuarios:
 
 -   **[PITA fue creado con el objetivo de potenciar la gestión académica en la UPTex y fomentar un ambiente de mejora continua y competitividad saludable entre los estudiantes.]**
 
-
-
-
+![Imagen](./readmeimg/bl4ckh4t.jpg)
 
