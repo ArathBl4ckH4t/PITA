@@ -217,5 +217,14 @@ Una vez instalado, el sistema permite a los usuarios:
 
 -   **[PITA fue creado con el objetivo de potenciar la gestión académica en la UPTex y fomentar un ambiente de mejora continua y competitividad saludable entre los estudiantes.]**
 
+## Contacto
+
+- **WhatsApp:** [+52 5613845080](https://wa.me/525613845080)
+- **LinkedIn:** [Jonatan Arath García Nieto](https://www.linkedin.com/in/jonatan-arath-garc%C3%ADa-nieto-332698218/)
+- **Portafolio:** [Visita mi portafolio](https://arathbl4ckh4t.github.io/ArathBl4ckH4t.github.io-portfolio/)
+
+
 ![Imagen](./readmeimg/bl4ckh4t.jpg)
 
+Sistema Web PITA (Programa Institucional de Tutorias y Asesorias)
+© 2025 [ArathNieto]
